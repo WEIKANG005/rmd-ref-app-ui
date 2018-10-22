@@ -12,7 +12,7 @@ var config = {
 
         clientId: '3',
         clientSecret: 'SB2xw9Sad6FoGttsmlmTCKlEftDYjezX15uDei0R',
-        serverUrl: 'http://pp.neuseer.cn/',
+        serverUrl: 'http://uaaa-a6oz0mwo.neuseer.cn/#/user/account-manage',
         redirect_uri: 'http://pp.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
